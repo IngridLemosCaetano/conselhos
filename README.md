@@ -18,9 +18,9 @@
 ## 📄 Descrição do entregável
 
 - index.html
-- styles.css
 - script.js
-
+- style.css
+  
 ---
 
 
@@ -38,7 +38,8 @@ API: [Conselho](https://api.adviceslip.com/advice)
 <!-- EXEMPLO DE LAYOUT: -->
 ## 🎨 Layout
 
-(https://github.com/IngridLemosCaetano/conselhos/blob/main/Thumbnail.png)
+
+![Web1](https://github.com/IngridLemosCaetano/conselhos/blob/main/Thumbnail.png)
 
 ---
 
@@ -70,7 +71,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina o seguinte e
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Desenvolvimento**  ([HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML), [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS), [JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), [API](hhttps://api.adviceslip.com/advice)) 
+#### **Desenvolvimento**  ([HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML), [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS), [JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), [API](https://api.adviceslip.com/advice)) 
 
 ---
 
