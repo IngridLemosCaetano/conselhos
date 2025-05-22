@@ -28,7 +28,7 @@
 ## 💻 Sobre o projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-Conselho do Dia é um projeto que desenvolvi a fim de testar minhas abilidades utilizando HTML, CSS e JavaScript, com foco no consumo de APIs por meio do método fetch. A aplicação realiza requisições assíncronas, processa e manipula os dados recebidos, exibindo-os dinamicamente na interface os dados "Logradouro, Bairro, Região e Estado".
+Conselho do Dia é um projeto que desenvolvi a fim de testar minhas abilidades utilizando HTML, CSS e JavaScript, com foco no consumo de APIs por meio do método fetch. A aplicação realiza requisições assíncronas, processa e manipula os dados recebidos, exibindo dinamicamente na interface uma mensagem de forma aleatória.
 
 API: [Conselho](https://api.adviceslip.com/advice)
 
